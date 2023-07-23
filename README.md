@@ -4,7 +4,7 @@
 sudo zypper install python3-kiwi
 sudo zypper install python3-xmltodict
 git clone https://github.com/OSInside/kiwi.git
-git clone https://github.com/aruelu/mykiwi.git
+git clone https://github.com/oredaaaaaaa/mykiwi.git
 ```
 
 # kiwi設定ファイル
